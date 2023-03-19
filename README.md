@@ -27,6 +27,9 @@ and open it in your browser.
   </a>
 </p>
 
+## Live Project Link
+[The-Counter-App](https://drsalins.github.io/The-Counter-Application/index.html)
+
 ## License
 
 [Siddarth_Salins_Mudaliar]
