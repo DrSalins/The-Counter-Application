@@ -1,6 +1,6 @@
-# My Counter Application
+# The Counter Application
 
-My Counter Application, is a small website that was used to teach prospective students how to create a simple website, which has an increase, decrease and reset button to 
+The Counter Application, is a small website that was used to teach prospective students how to create a simple website, which has an increase, decrease and reset button to 
 change the value of a number. Included in this project are animations using Animate.CSS.
 
 ## How to clone
