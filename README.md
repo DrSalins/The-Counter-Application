@@ -8,7 +8,7 @@ change the value of a number. Included in this project are animations using Anim
 If you would like to try out this simple website, or create a new version of it simply clone it to your computer, using the below command
 
 ```bash
-git clone git@github.com:DrSalins/MyCounterApplication.git
+git clone git@github.com:DrSalins/The-Counter-Application.git
 ```
 
 ## Usage
